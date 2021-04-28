@@ -1,0 +1,33 @@
+nav img  {
+    max-width: 70px;
+    max-height: 70px;
+    border-radius: 50%;
+}
+main {
+    text-align: center;
+}
+#t {
+    height: 200px;
+    width: 100%;
+  border-radius: 30px;
+  border: 5px solid blue;
+
+}
+#y {
+    display: flex;
+    justify-content: space-evenly;
+}
+#y button{width: 48%;
+   border-radius: 10px;
+   border: 0px;
+   padding: 10px;
+}
+#p {padding: 20px;
+    margin: 5px 0px;
+    border-bottom: 3px solid black;
+    color: black;
+  
+}
+#m {max-width: 100% !important;
+  
+}
